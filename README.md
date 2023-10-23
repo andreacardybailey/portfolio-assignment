@@ -42,51 +42,51 @@
 
 #### a. Header: 
 
-Create a header that contains your name and a brief tagline. 
+- Create a header that contains your name and a brief tagline. 
 
 #### b. About Me Section: 
 
-Add a section that gives a brief bio about yourself. 
+- Add a section that gives a brief bio about yourself. 
 
 #### c. Projects Section: 
 
-Create a section that displays a list of your projects. Since this is a beginner assignment, you can use placeholder names and descriptions for your projects. 
+- Create a section that displays a list of your projects. Since this is a beginner assignment, you can use placeholder names and descriptions for your projects. 
 
 #### d. Contact Section: 
 
-Add a section that provides your email and any other relevant contact information.
+- Add a section that provides your email and any other relevant contact information.
 
 * * * * *
 
 ### 3\. Basic CSS Styling
 
-Open `styles.css` in your text editor. Here you will write CSS to style your portfolio page.
+- Open `styles.css` in your text editor. Here you will write CSS to style your portfolio page.
 
 ## Tasks:
 
 #### a. General Styles:
 
-Set a background color of your choice for the body. 
+- Set a background color of your choice for the body. 
 
-Set the font family to "Arial, sans-serif" for the entire page. - Center the text on the page.
+- Set the font family to "Arial, sans-serif" for the entire page. - Center the text on the page.
 
 #### b. Header: 
 
-Add a different background color to the header. 
+- Add a different background color to the header. 
 
-Make the text in the header larger than the rest of the page.
+- Make the text in the header larger than the rest of the page.
 
 #### c. Sections: 
 
-Add some padding and margin to each section for spacing. 
+- Add some padding and margin to each section for spacing. 
 
-Use borders or background colors to distinguish each section.
+- Use borders or background colors to distinguish each section.
 
 #### d. Projects: 
 
-Display the projects in a list.
+- Display the projects in a list.
 
-Style the list to make it visually appealing.
+- Style the list to make it visually appealing.
 
 * * * * *
 
@@ -94,7 +94,7 @@ Style the list to make it visually appealing.
 
 #### a. Add a profile picture in the "About Me" section. 
 
-For this exercise, I'll provide you with a placeholder image:
+- For this exercise, I'll provide you with a placeholder image:
 
 ![Placeholder Image](https://i.postimg.cc/y6tK2QFQ/profile-photo.png)
 
