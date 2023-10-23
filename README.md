@@ -41,15 +41,19 @@
 ## Tasks:
 
 #### a. Header: 
+
 Create a header that contains your name and a brief tagline. 
 
 #### b. About Me Section: 
+
 Add a section that gives a brief bio about yourself. 
 
 #### c. Projects Section: 
+
 Create a section that displays a list of your projects. Since this is a beginner assignment, you can use placeholder names and descriptions for your projects. 
 
 #### d. Contact Section: 
+
 Add a section that provides your email and any other relevant contact information.
 
 * * * * *
