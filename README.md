@@ -17,9 +17,9 @@
 
 -   Open `index.html` in your text editor and set up the basic structure:
 
-htmlCopy code
 
-```
+
+```html
 
 <!DOCTYPE html>
 <html lang="en">
