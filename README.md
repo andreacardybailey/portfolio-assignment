@@ -68,8 +68,7 @@
 
 - Set a background color of your choice for the body. 
 
-- Set the font family to "Arial, sans-serif" for the entire page. - Center the text on the page.
-
+- Set the font family to "Arial, sans-serif" for the entire page.
 #### b. Header: 
 
 - Add a different background color to the header. 
