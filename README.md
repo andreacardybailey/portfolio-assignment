@@ -66,19 +66,27 @@ Open `styles.css` in your text editor. Here you will write CSS to style your por
 
 #### a. General Styles:
 
-Set a background color of your choice for the body. - Set the font family to "Arial, sans-serif" for the entire page. - Center the text on the page.
+Set a background color of your choice for the body. 
+
+Set the font family to "Arial, sans-serif" for the entire page. - Center the text on the page.
 
 #### b. Header: 
 
-Add a different background color to the header. - Make the text in the header larger than the rest of the page.
+Add a different background color to the header. 
+
+Make the text in the header larger than the rest of the page.
 
 #### c. Sections: 
 
-Add some padding and margin to each section for spacing. - Use borders or background colors to distinguish each section.
+Add some padding and margin to each section for spacing. 
+
+Use borders or background colors to distinguish each section.
 
 #### d. Projects: 
 
-Display the projects in a list. - Style the list to make it visually appealing.
+Display the projects in a list.
+
+Style the list to make it visually appealing.
 
 * * * * *
 
